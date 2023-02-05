@@ -26,6 +26,7 @@ Possibilidades
 Como usar
 =================
 
+- Clique em **Configurações** e em **Localizar Fortnite** e definir o caminho onde o jogo está em seu computador
 - Clique em **Conta** e em **Adicionar conta**
 - O navegador irá abrir e você deve efetuar o login em sua conta Epic Games, após o login copie o código após "authorizationCode"
 ```
