@@ -27,8 +27,7 @@ Como usar
 =================
 
 - Clique em **Conta** e em **Adicionar conta**
-  * O navegador irá abrir e você deve efetuar o login em sua conta Epic Games, após o login copie o código após "authorizationCode"
-
+- O navegador irá abrir e você deve efetuar o login em sua conta Epic Games, após o login copie o código após "authorizationCode"
 ```
 {
     "redirectUrl": "https://accounts.epicgames.com/fnauth?code=a51c1f4d35b1457c8e34a1f6026faa35",
@@ -36,9 +35,9 @@ Como usar
     "sid": null
 }
 ```
-  * Preencha o código no campo Token e clique em "Conectar"
+- Preencha o código no campo Token e clique em "Conectar"<br>
   <img alt="Kevin1" title="Kevin1" src="./assets/kevin1.png" />
-  * Pronto, agora é só desfrutar do Launcher. 🤭
+- Pronto, agora é só desfrutar do Launcher. 🤭
 
 <br>
 <br>
