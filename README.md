@@ -1,6 +1,6 @@
 <h1 align="center">Kevin Launcher</h1>
 
-Kevin launcher é um complemento para te auxiliar com o Fortnite, dando a liberdade para efetuar diversas ações sem precisar abrir o jogo.
+  <img alt="Kevin1" title="Kevin1" src="./assets/kevin2.png"/>
 
 Possibilidades
 =================
@@ -36,8 +36,11 @@ Como usar
     "sid": null
 }
 ```
-<h1 align="right">
+  * Preencha o código no campo Token e clique em "Conectar"
   <img alt="Kevin1" title="Kevin1" src="./assets/kevin1.png" />
-</h1>
-Este launcher é baseado na open source [Potato Launcher](https://github.com/a-bakedpotato/Potato-Launcher). 
-<br>Todos os créditos são destinados ao a-bakedpotato.
+  * Pronto, agora é só desfrutar do Launcher. 🤭
+
+<br>
+<br>
+
+Este launcher é baseado na open source [Potato Launcher](https://github.com/a-bakedpotato/Potato-Launcher). Todos os créditos são destinados ao a-bakedpotato.
